@@ -8,11 +8,13 @@
     "name": "Andrey Belym",
     "email": "belym.a.2105@gmail.com"
   },
-  "contributors": [{
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
-  }],
+  "contributors": [
+    {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "sindresorhus.com"
+    }
+  ],
   "scripts": {
     "test": "node test.js"
   },
