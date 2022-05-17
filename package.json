@@ -41,10 +41,10 @@
     "animation"
   ],
   "dependencies": {
-    "ansi-escapes": "^2.0.0",
+    "ansi-escapes": "^4.3.2",
     "async-exit-hook": "^1.1.2",
     "onetime": "^2.0.1",
-    "wrap-ansi": "^2.1.0"
+    "wrap-ansi": "^7.0.0"
   },
   "devDependencies": {
     "xo": "*"
