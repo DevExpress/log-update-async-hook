@@ -13,5 +13,5 @@ jobs:
     environment: CI
     steps:
       - uses: DevExpress/testcafe-build-system/actions/prepare@main
-      - run: npm i
+      - run: npm ci
       - run: npm test
